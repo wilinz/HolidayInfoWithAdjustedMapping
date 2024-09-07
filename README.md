@@ -4,7 +4,7 @@
 ## 在开发课表程序时，需要根据调休映射关系以此调整日程（`adjusted_workday`与`original_day`），信息结构如下：
 ```json
 [
-{
+   {
     "holiday_name": "中秋节",
     "target": "2024-09-15",
     "holiday_dates": [

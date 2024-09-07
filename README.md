@@ -1,7 +1,7 @@
 # HolidayInfoWithAdjustedMapping
 ## 法定假日调休日期与上班日期的映射计算方法，其中法定假日的获取使用 https://github.com/6tail/lunar-flutter 的库
 
-## 在开发课表程序时，需要根据调休映射关系以此调整日程（`adjusted_workday`与`original_day`），信息结构如下：
+## 在学校上课时，需要根据假日调休映射关系以此调整日程（`adjusted_workday`与`original_day`），信息结构如下：
 ```json
 [
    {

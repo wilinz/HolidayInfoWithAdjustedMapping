@@ -1,5 +1,5 @@
 # HolidayInfoWithAdjustedMapping
-## 今天调休补课，该上哪天的课？
+## 今天调休补课，该上哪天的课？[https://oj.kexie.space/problem/666666](https://oj.kexie.space/problem/666666)
 ## 法定假日调休日期与上班日期的映射计算方法，其中法定假日的获取使用 https://github.com/6tail/lunar-flutter 的库
 
 ## 在学校上课时，需要根据假日调休映射关系以此调整日程，也就是说今天补课，但该上哪天的课？（`adjusted_workday`与`original_day`），信息结构如下，由于公布的节假日信息只告诉你哪天调班，并没有其映射关系，因此需要自行计算
